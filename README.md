@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hi, I'm Alan 👋<br><br>I'm a  B.Tech in Computer Science and Engineering (Artificial Intelligence)focused on AI Engineering.<br><br>Currently, I'm building AI agents, RAG systems, and LLM-powered applications while documenting my journey publicly through projects and technical content.<br><br>## What I'm Working On<br><br>* AI Agents and Multi-Agent Systems<br>* Retrieval-Augmented Generation (RAG)<br>* LLM Applications with Memory<br>* MCP (Model Context Protocol) Integrations<br>* AI-Powered Automation Tools<br>* Python, FastAPI, and Modern AI Frameworks<br><br><br>Tech Stack<br><br>* Python<br>* Git & GitHub<br>* FastAPI<br>* OpenAI API<br>* Vector Databases<br>* RAG Pipelines<br>* AI Agents<br>* LLM Engineering<br>
+Alan 👋
+<br><br>I'm a  B.Tech in Computer Science and Engineering (Artificial Intelligence)focused on AI Engineering.<br><br>Currently, I'm building AI agents, RAG systems, and LLM-powered applications while documenting my journey publicly through projects and technical content.<br><br>## What I'm Working On<br><br>* AI Agents and Multi-Agent Systems<br>* Retrieval-Augmented Generation (RAG)<br>* LLM Applications with Memory<br>* MCP (Model Context Protocol) Integrations<br>* AI-Powered Automation Tools<br>* Python, FastAPI, and Modern AI Frameworks<br><br><br>Tech Stack<br><br>* Python<br>* Git & GitHub<br>* FastAPI<br>* OpenAI API<br>* Vector Databases<br>* RAG Pipelines<br>* AI Agents<br>* LLM Engineering<br>
 
 
 ## 🌐 Socials:
